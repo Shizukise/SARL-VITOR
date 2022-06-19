@@ -1,0 +1,98 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+}
+
+h1 {
+  font-size: 3rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
+}
+
+.hero {
+
+  color: white;
+}
+
+.slogan {
+  background-color: #393E46;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+  background-color: #222831;
+}
+
+.navbar {
+  margin-top: 10px;
+}
+
+.navbar-brand {
+  font-family: 'PT Sans', sans-serif;
+  font-size: 1.5rem;
+  font-weight: 400;
+}
+
+.row {
+  text-align: center;
+  padding: 3% 15% 15%;
+}
+
+.nav-item {
+  font-size: 1.3rem;
+  line-height: 1.5;
+  padding-left: 10px;
+  color: white;
+}
+
+.nav-link:hover {
+  color: #FFD369;
+}
+
+.btn {
+  margin-top: 30px;
+}
+
+/* services */
+.services {
+  color: #5588A3;
+  text-align: center;
+  padding: 3% 15%;
+}
+
+.services-box {
+  padding: 7%;
+
+}
+
+.services-row {
+  padding: 5% 0 0 0;
+
+}
+
+.icon {
+  color: #393E46;
+  margin-bottom: 15px;
+}
+
+.icon:hover {
+  color: #FFD369;
+}
+
+h3 {
+  font-weight: 900;
+  color: #00334E;
+}
+
+.copyright {
+  background-color: #222831;
+  color: #E8E8E8;
+  text-align: left;
+  height: 10vh;
+}
+
+.empresa {
+  padding-top: 20px;
+  padding-left: 4%;
+  font-size: 1.2rem;
+}
